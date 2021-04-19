@@ -1,2 +1,2 @@
 # 2130
-Learning terminal
+Learning terminal for Gary's Software Development Class.
